@@ -51,6 +51,7 @@ python run.py --net nsfnetbw --process False
 python run.py --net geant2bw --process False
 ```
 
+Also other model parameters and training hyper-parameters can be changed by adding argparse like `--lr 3e-4 --dim 64`.
 
 ## Related publications:
 * RouteNet (JSAC 2020) [paper](https://ieeexplore.ieee.org/document/9109574) [code](https://github.com/knowledgedefinednetworking/demo-routenet)

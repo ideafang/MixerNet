@@ -41,14 +41,14 @@ tar -xvzf geant2.tar.gz
 # for NSFNET
 python run.py --net nsfnetbw
 # for GEANT2
-python run.py --net geant2
+python run.py --net geant2bw
 ```
 * **Train**
 ```
 # for NSFNET
 python run.py --net nsfnetbw --process False
 # for GEANT2
-python run.py --net geant2 --process False
+python run.py --net geant2bw --process False
 ```
 
 

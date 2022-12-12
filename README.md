@@ -5,11 +5,15 @@ Code for our CNSM'2022 paper "A Novel Network Delay Prediction Model with Mixed 
 If you find this code useful in your research please cite
 
 ```
-@inproceedings{fang2022a,
-  title={A Novel Network Delay Prediction Model with Mixed Multi-layer Perceptron Architecture for Edge Computing},
-  author={Honglin Fang and Peng Yu and Ying Wang and Wenjing Li and Fanqin Zhou and Run Ma},
-  booktitle={CNSM},
-  year={2022},
+@INPROCEEDINGS{fang2022a,  
+  author={Fang, Honglin and Yu, Peng and Wang, Ying and Li, Wenjing and Zhou, Fanqin and Ma, Run},  
+  booktitle={2022 18th International Conference on Network and Service Management (CNSM)},   
+  title={A Novel Network Delay Prediction Model with Mixed Multi-layer Perceptron Architecture for Edge Computing},   
+  year={2022},  
+  volume={},  
+  number={},  
+  pages={191-197},  
+  doi={10.23919/CNSM55787.2022.9964552}
 }
 ```
 
